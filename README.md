@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WenxiangL
-- 👀 I’m interested in Bioinformatic.
-- 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on Bioinformatic statistic analysis.
+- 👀 I’m interested in Computational Structural Biology.
+- 🌱 I’m currently a Ph.D student.
+- 💞️ I’m looking to collaborate on enzyme and Molecular dynamics.
 - 📫 How to reach me :2944033705@qq.com
 
 <!---
